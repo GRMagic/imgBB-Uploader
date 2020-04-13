@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imgBB Uploader Example", "imgBB Uploader\imgBB Uploader Example.csproj", "{CEBE4646-BCEE-42B6-B8C8-63E5F558FA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imgBBUploader", "imgBBUploader\imgBBUploader.csproj", "{86D79299-5615-46D8-BFC3-6FBEDAA6FFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBE4646-BCEE-42B6-B8C8-63E5F558FA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBE4646-BCEE-42B6-B8C8-63E5F558FA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBE4646-BCEE-42B6-B8C8-63E5F558FA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBE4646-BCEE-42B6-B8C8-63E5F558FA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D79299-5615-46D8-BFC3-6FBEDAA6FFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D79299-5615-46D8-BFC3-6FBEDAA6FFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D79299-5615-46D8-BFC3-6FBEDAA6FFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D79299-5615-46D8-BFC3-6FBEDAA6FFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668FEEB1-A0D6-4912-B916-CD7F67C1A12B}
+	EndGlobalSection
+EndGlobal
